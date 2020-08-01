@@ -1,0 +1,12 @@
+{
+  "name": "tamilN",
+  "displayName": "tamilN",
+  "expo": {
+    "name": "tamilN",
+    "slug": "tamilN",
+    "version": "1.0.3",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
